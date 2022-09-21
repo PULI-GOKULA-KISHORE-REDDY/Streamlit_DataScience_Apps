@@ -3,3 +3,7 @@ xlrd<2.0
 streamlit==1.8.0
 plotly==4.14.3
 Pillow==8.1.2
+textblob==0.17.1
+spacy<3.5
+gensim==3.7.0
+
